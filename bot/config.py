@@ -16,7 +16,9 @@ class TG_CONFIG:
     bot_token = "7307813212:AAEFiARqsOZYgYadNiH2k9f-nVgcewlHsqg"
 
     #DEVS or #OWNERS
-    sudo_users = [809614790, 6890795853]
+    sudo_users = [683443719
+
+                  , 6890795853]
 
     session = "Vktataplaybot"
 
