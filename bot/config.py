@@ -87,8 +87,8 @@ class FILENAME_CONFIG:
 
     #Dict made to add Group Tag according to the user requesting to DL (according to there TG ID) if not in list then takes the default_group_tag
     group_tag_mapping = {
-        '1984763765': 'Conan76',
-        '6360672597' : 'RV'
+        '809614790': 'daemon',
+        '6890795853' : 'Billy'
     }
 
 
@@ -107,7 +107,7 @@ A TG WEB-DL Bot</b>
 
 > <code>{}</code>
 
-<b>Made by @conan7612</b>
+<b>Made by @Daemon990</b>
 """
 
 SIMPLE_CAPTION = '''<code>{}</code>'''
