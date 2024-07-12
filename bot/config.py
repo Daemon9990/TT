@@ -22,7 +22,7 @@ class TG_CONFIG:
 
     bot_creater = "daemon"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "@daemon999"  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@daemon990"  # Don't Remove if you Respect the DEV
 
 
 class UPLOAD_CONGIF:
