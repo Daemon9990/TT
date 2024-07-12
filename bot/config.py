@@ -18,7 +18,7 @@ class TG_CONFIG:
     #DEVS or #OWNERS
     sudo_users = [809614790, 6890795853]
 
-    session = "conan76_web_dl_bot"
+    session = "Vktataplaybot"
 
     bot_creater = "daemon"  # Don't Remove if you Respect the DEV
 
